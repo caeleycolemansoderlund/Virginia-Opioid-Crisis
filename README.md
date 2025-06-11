@@ -8,4 +8,5 @@ The following map shows opioid overdose death rates per 100,000 people by county
 
 
 Data Source: CDC 
+
 Created using Python and Plotly
