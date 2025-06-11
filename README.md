@@ -4,8 +4,6 @@
 
 This interactive map visualizes opioid overdose death rates by Virginia county over time.
 
-![VA Opioid Overdose Map](VA%20Opioid%20Overdose%20Map.png)
-
 
 [![Animated demo of the map](va_opioid_deaths.gif)](https://caeleycolemansoderlund.github.io/Opioid-Risk-Radar/opioid_overdose_map_va.html)
 
